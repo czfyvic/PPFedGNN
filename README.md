@@ -5,7 +5,7 @@ Exploring the intrinsic value of social data has long been a focal point for res
 ![The Framework of PPFedGNN](./framework.png)
 
 # DataSet
-The experimental dataset includes BlogCatalog[1], Flikr[1], Facebook[2] datasets, you can download it yourself on the Internet.
+The experimental dataset includes BlogCatalog[1], Flikr[1], Facebook[2] and TeleComm[3] datasets, you can download it yourself on the Internet.
 
 # Experimental environment
 + torch == 2.2.2
@@ -17,3 +17,4 @@ The experimental dataset includes BlogCatalog[1], Flikr[1], Facebook[2] datasets
 # Reference
 - [1] L. Tang and H. Liu, “Relational learning via latent social dimensions,” in Proceedings of the 15th ACM SIGKDD international conference on Knowledge discovery and data mining, 2009, pp. 817–826.
 - [2] B. Viswanath, A. Mislove, M. Cha, and K. P. Gummadi, “On the evolution of user interaction in facebook,” in Proceedings of the 2nd ACM workshop on Online social networks, 2009, pp. 37–42.
+- [3] https://aistudio.baidu.com/datasetdetail/40690.
